@@ -31,6 +31,5 @@ object SparkyQwantManager {
     esm.writeToIndex(path)
 
     esm.read(path).show(false)
-
   }
 }
