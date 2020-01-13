@@ -1,4 +1,4 @@
-package dev.stef.es
+package dev.stef.manager.es
 
 import org.apache.spark.sql.{DataFrame, SparkSession}
 import org.elasticsearch.spark.sql._
